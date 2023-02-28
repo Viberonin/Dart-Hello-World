@@ -11,11 +11,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Demo 1 Perangkat Bergerak',
       home: Scaffold(
         body: Center(
           child: Text(
-            'Hello, World!',
+            'Bonjour!',
             style: TextStyle(
               fontSize: 30
             ),
